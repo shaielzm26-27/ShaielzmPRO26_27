@@ -1,0 +1,23 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package borradorpracticas;
+
+
+/**
+ *
+ * @author shaiel
+ */
+public class BorradorPracticas {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        
+        System.out.println("Hola mundo! Soy Shaiel Zurita Madrid y este es mi primer programa");
+        
+    }
+    
+}

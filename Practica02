@@ -1,0 +1,36 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package borradorpracticas;
+
+/**
+ *
+ * @author shaiel
+ */
+public class BorradorPractica02 {
+    public static void main(String[] args) {
+        mi variable
+        num_de_cte
+        ____programa
+        3tema
+        cierto?
+        númerodeCliente
+        jose~
+        año
+        PI
+        int
+        
+    }
+}
+
+
+/*
+run:
+Exception in thread "main" java.lang.RuntimeException: Uncompilable code - cannot find symbol
+  symbol:   class mi
+  location: class borradorpracticas.BorradorPractica02
+	at borradorpracticas.BorradorPractica02.main(BorradorPractica02.java:1)
+C:\Users\shaie\AppData\Local\NetBeans\Cache\31\executor-snippets\run.xml:111: The following error occurred while executing this line:
+C:\Users\shaie\AppData\Local\NetBeans\Cache\31\executor-snippets\run.xml:68: Java returned: 1
+BUILD FAILED (total time: 3 seconds)
