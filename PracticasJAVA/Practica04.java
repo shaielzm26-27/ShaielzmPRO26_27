@@ -8,14 +8,13 @@ package borradorpracticas;
  *
  * @author shaie
  */
-public class Practica04 {
+public class Practica03 {
     public static void main(String[] args) {
         
-        int numero = 0x10;
+        long variable = 123400000000;
         
-        System.out.println(numero);
-        
-        System.out.println(067);
+        //integer number too large
+        //Variable variable is never read
         
     }
 }

@@ -6,15 +6,20 @@ package borradorpracticas;
 
 /**
  *
- * @author shaie
+ * @author shaiel
  */
-public class Practica03 {
+public class Practica02 {
     public static void main(String[] args) {
-        
-        long variable = 123400000000;
-        
-        //integer number too large
-        //Variable variable is never read
+        mi variable
+        num_de_cte
+        ____programa
+        3tema
+        cierto?
+        númerodeCliente
+        jose~
+        año
+        PI
+        int
         
     }
 }

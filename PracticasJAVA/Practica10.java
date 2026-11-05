@@ -8,14 +8,16 @@ package borradorpracticas;
  *
  * @author shaie
  */
-public class Practica06 {
+public class Practica10 {
     public static void main(String[] args) {
+        int x,y;
+        x = 3;
+        y = ++x;
+        System.out.println("Resultado con prefijo: x = " + x + "y =" + y);
         
-        final int MAXIMO = 23;
-        
-        MAXIMO = 12;
-        
-        //cannot assign a value to final variable MAXIMO
+        x = 3;
+        y = x++;
+        System.out.println("Resultado con prefijo: x = " + x + "y =" + y);
         
     }
 }

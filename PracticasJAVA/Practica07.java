@@ -10,9 +10,12 @@ package borradorpracticas;
  */
 public class Practica07 {
     public static void main(String[] args) {
-        int entero;
-        double real = 3.5;
-        entero = (int)real;
-        System.out.println(entero);
+        
+        final int MAXIMO = 23;
+        
+        MAXIMO = 12;
+        
+        //cannot assign a value to final variable MAXIMO
+        
     }
 }

@@ -8,18 +8,25 @@ package borradorpracticas;
  *
  * @author shaiel
  */
-public class Practica02 {
+public class Practica01 {
     public static void main(String[] args) {
-        mi variable
-        num_de_cte
-        ____programa
-        3tema
-        cierto?
-        númerodeCliente
-        jose~
-        año
-        PI
-        int
         
+        boolean casado = true;
+        int numero = 999999;
+        byte diaSemana = 3;
+        short diaAnio = 200;
+        char sexo = 'm';
+        long milisegundos = 1000000000;
+        double totalFactura = 125.50;
+        long poblacionMundial = 1000000L;
+        
+        System.out.println("1. Casado: " + casado);
+        System.out.println("2. Numero: " + numero);
+        System.out.println("3. Dia de la semana: " + diaSemana);
+        System.out.println("4. Dia del anio: " + diaAnio);
+        System.out.println("5. Sexo: " + sexo);
+        System.out.println("6. Milisegundos: " + milisegundos);
+        System.out.println("7. Total de la factura: " + totalFactura);
+        System.out.println("8. Poblacion mundial: " + poblacionMundial);
     }
 }

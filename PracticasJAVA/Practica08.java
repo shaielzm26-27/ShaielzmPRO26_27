@@ -10,14 +10,9 @@ package borradorpracticas;
  */
 public class Practica08 {
     public static void main(String[] args) {
-        int x,y;
-        x = 3;
-        y = ++x;
-        System.out.println("Resultado con prefijo: x = " + x + "y =" + y);
-        
-        x = 3;
-        y = x++;
-        System.out.println("Resultado con prefijo: x = " + x + "y =" + y);
-        
+        int entero;
+        double real = 3.5;
+        entero = (int)real;
+        System.out.println(entero);
     }
 }
